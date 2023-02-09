@@ -6775,7 +6775,6 @@ self.C3_ExpressionFuncs = [
 			const f0 = p._GetNode(0).GetBoundMethod();
 			return () => (f0() * 223);
 		},
-		() => "levels_check_storage2",
 		() => 7,
 		() => 8,
 		() => 9,
